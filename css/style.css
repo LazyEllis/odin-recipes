@@ -1,0 +1,26 @@
+body{
+    background-color: #313338;
+    color: #dbdee1;
+    font-family: "gg sans", "Noto Sans", Helvetica, sans-serif;
+}
+
+h1 {
+    color: #f2f3f5;
+}
+
+.dark-grey, a {
+    color: #949ba4;
+    text-decoration: none;
+}
+
+a:hover{
+    color: #d0d8db;
+}
+
+.header-line {
+    border: 1px solid #1e1f22;
+}
+
+.heading-line {
+    border: 1px solid #b5bac1;
+}
