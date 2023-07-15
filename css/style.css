@@ -8,15 +8,6 @@ h1 {
     color: #f2f3f5;
 }
 
-.dark-grey, a {
-    color: #949ba4;
-    text-decoration: none;
-}
-
-a:hover{
-    color: #d0d8db;
-}
-
 .header-line {
     border: 1px solid #1e1f22;
 }
