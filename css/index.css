@@ -24,6 +24,7 @@ a {
 
 a:hover {
     background-color: #5865F2;
+    border-radius: 15px;
 }
 
 li:hover {
